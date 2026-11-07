@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm a Pharmaceutical Biotechnology Researcher 👋
 
-<!--
-**ShreshtaVaddi/Shreshtavaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😁 About me
+ I am an M.Pharm graduate in Pharmaceutical Biotechnology with an academic background in Pharmacy and an interest in research and development.
 
-Here are some ideas to get you started:
+-📜 My Interests include 
+Pharmaceutical biotechnology, biologics, molecular biology, microbiology and protein characterization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning 
+Python for Biological, Data Analysis, Bioinformatics, Scientific Data Visualization, Research Data Interpretation.
+
+- 👩‍🎓Education 
+M.Pharm – Pharmaceutical Biotechnology
+B.Pharm – Pharmacy
+
+- 🤔 Research Interest
+Pharmaceutical Biotechnology
+Recombinant DNA Technology
+Monoclonal Antibodies and Biologics
+Protein Characterization
+Actinomycetes and Bioactive Compounds
+Bioinformatics
+
+-🔬Career Goals 
+interested in Biotechnology R&D, Research Associate opportunities
+
+- 📫 How to reach me: shreshtavaddi@gmail.com
+
+- 😄 Pronouns: She/Her
+
